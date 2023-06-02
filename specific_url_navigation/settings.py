@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'csk',
     'rcb',
+    'india',
 ]
 
 MIDDLEWARE = [
